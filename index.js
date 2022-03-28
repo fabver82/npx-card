@@ -3,7 +3,7 @@ console.log(`
 
    ┌──────── Fabien's card ────────┐
    │                               │
-   │       Work : Web-Devlopment   │
+   │       Work : Web-Development  │
    │     GitHub : fabver82         │
    │                               │
    └───────────────────────────────┘

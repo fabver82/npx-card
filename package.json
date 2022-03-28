@@ -1,19 +1,22 @@
-
 {
     "name": "@fabver82/card-fabien",
     "version": "1.0.1",
     "description": "this is my personal card!",
     "main": "index.js",
     "bin": {
-      "card-fabien": "./index.js"
+        "card-fabien": "./index.js"
     },
     "type": "module",
-    "keywords": [],
+    "keywords": [
+        "fabien card",
+        "npm card",
+        "npx card"
+    ],
     "author": "Fabien Vermeiren",
     "license": "isc",
     "dependencies": {
-      "boxen": "^6.2.1",
-      "prompts": "^2.4.2"
+        "boxen": "^6.2.1",
+        "chalk": "^5.0.1",
+        "prompts": "^2.4.2"
     }
-  }
-
+}

@@ -1,11 +1,13 @@
 #!/usr/bin/env node
-console.log(`
+import chalk from "chalk"
+const card =(`
 
-   ┌──────── Fabien's card ────────┐
-   │                               │
-   │       Work : Web-Development  │
-   │     GitHub : fabver82         │
-   │                               │
-   └───────────────────────────────┘
+┌──────── Fabien's card ────────┐
+│                               │
+│       Work : Web-Development  │
+│     GitHub : fabver82         │
+│                               │
+└───────────────────────────────┘
 
-`) // DO NOT EDIT
+`) 
+console.log(chalk.red.bold.bgCyan(card));

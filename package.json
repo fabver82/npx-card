@@ -1,6 +1,6 @@
 
 {
-    "name": "card-fabien",
+    "name": "@fabver82/card-fabien",
     "version": "1.0.0",
     "description": "this is my personal card!",
     "main": "index.js",
@@ -9,7 +9,7 @@
     },
     "type": "module",
     "keywords": [],
-    "author": "",
+    "author": "Fabien Vermeiren",
     "license": "isc",
     "dependencies": {
       "boxen": "^6.2.1",

@@ -1,0 +1,19 @@
+
+{
+    "name": "card-fabien",
+    "version": "1.0.0",
+    "description": "this is my personal card!",
+    "main": "index.js",
+    "bin": {
+      "card-fabien": "./index.js"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "isc",
+    "dependencies": {
+      "boxen": "^6.2.1",
+      "prompts": "^2.4.2"
+    }
+  }
+
